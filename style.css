@@ -1,0 +1,62 @@
+body {
+	font-family: 'Raleway', sans-serif; 
+	src: url(font\Raleway-VariableFont_wght.ttf); 
+}
+header {
+    position: fixed;
+    width: 100%;
+    height: 120px;
+    font-weight: bold;
+    display: flex;  
+    flex-direction: row;
+    background: #000000;
+    border-bottom: solid 1px #ffffff;
+    margin: 0px;
+    padding: 0px;
+    top: 0;
+    left: 0;
+}
+p {
+    width: 26%;
+}
+.cnavi_li {
+    margin-top: 30px;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background: #000000;
+    justify-content: center;
+    margin: none;
+    color: #ffffff;
+    text-align: left;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+    border-top: solid 2px #ffffff;
+    color: #ffffff;
+    margin-top: 10px;
+    background: black;
+}
+.container{
+    margin-top: 80px;
+    width: 100%;
+    background: rgb(0, 0, 0);
+
+}
+ul{
+    list-style-type: none;
+}
+span {
+    width: 30%;
+}
+.footer {
+    padding-top: 50px;
+}
+.pop {
+    display: flex;
+    flex-direction: column;
+
+}
